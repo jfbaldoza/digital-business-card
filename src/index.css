@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #23252C;
+}
+
+.container {
+  width: 550px;
+  height: 868px;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.main-photo {
+  width: 317px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 1.5rem;
+  /* padding-left: 21%; */
+  /* padding-top: 10%; */
+}
+
+.info-container h1, h2, p {
+  margin: 0.2rem;
+}
+
+.info-container h1 {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+
+.info-container h2 {
+  text-align: center;
+  color: #F3BF99;
+  font-size: .8rem;
+  font-weight: 400;
+}
+
+.info-container p {
+  text-align: center;
+  color: #F5F5F5;
+  font-size: 12.8px;
+  font-weight: 400;
+}
+
+.info-container {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1A1B21;
+  border-radius: 10px;
+  width: 317px;
+}
+
+/* ABOUT SECTIONS */
+/* ABOUT SECTIONS */
+
+.info-section {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1A1B21;
+  border-radius: 10px;
+  width: 317px;
+}
+
+.about-section h3 {
+  color: white;
+  font-size: 1.5rem;
+  padding-left: 2.2rem;
+  margin-bottom: .5rem;
+  margin-top: 1rem;
+}
+
+.about-content {
+  color: white;
+  font-size: .8rem;
+  padding-left: 2.2rem;
+  letter-spacing: 1px;
+}
+
+
+.about-section {
+  width: 317px;
+  background-color: #1A1B21;
+}
+
+.input-section {
+  width: 285px;
+}
+
+/* ABOUT SECTIONS */
+/* ABOUT SECTIONS */
+
+/* INTEREST SECTIONS */
+/* INTEREST SECTIONS */
+
+.interest-section h3 {
+  color: white;
+  font-size: 1.5rem;
+  padding-left: 2.2rem;
+  margin-bottom: .5rem;
+}
+
+.interest-content {
+  color: white;
+  font-size: .8rem;
+  padding-left: 2.2rem;
+  letter-spacing: 1px;
+
+}
+
+
+/* INTEREST SECTIONS */
+/* INTEREST SECTIONS */
+
+.link-buttons {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+}
+
+button {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-style: none;
+  padding: 5px 1.5rem;
+  border-radius: 6px;
+}
+
+.left-button {
+background-color: #D1D5DB;
+
+}
+
+.right-button {
+  color: #FFFFFF;
+  background-color: #5093E2;
+  
+  }
+
+  button img {
+    padding: 5px;
+  }
+
+  .icon-images {
+    padding: 1rem;
+  }
+
+  .icon-links {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    background-color: #161619;
+  }
