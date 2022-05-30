@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jfbaldoza/digital-business-card/static/css/main.2d2750cb.css",
-    "main.js": "/jfbaldoza/digital-business-card/static/js/main.2c55cbd4.js",
-    "static/media/main-img.jpg": "/jfbaldoza/digital-business-card/static/media/main-img.b27971cf71e85cedafae.jpg",
-    "index.html": "/jfbaldoza/digital-business-card/index.html",
-    "main.2d2750cb.css.map": "/jfbaldoza/digital-business-card/static/css/main.2d2750cb.css.map",
-    "main.2c55cbd4.js.map": "/jfbaldoza/digital-business-card/static/js/main.2c55cbd4.js.map"
+    "main.css": "/digital-business-card/static/css/main.6fa089d6.css",
+    "main.js": "/digital-business-card/static/js/main.547f6ea8.js",
+    "static/media/main-img.jpg": "/digital-business-card/static/media/main-img.b27971cf71e85cedafae.jpg",
+    "index.html": "/digital-business-card/index.html",
+    "main.6fa089d6.css.map": "/digital-business-card/static/css/main.6fa089d6.css.map",
+    "main.547f6ea8.js.map": "/digital-business-card/static/js/main.547f6ea8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2750cb.css",
-    "static/js/main.2c55cbd4.js"
+    "static/css/main.6fa089d6.css",
+    "static/js/main.547f6ea8.js"
   ]
 }
