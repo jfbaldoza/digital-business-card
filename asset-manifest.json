@@ -1,14 +1,14 @@
 {
-  "files": {
-    "main.css": "/digital-business-card/static/css/main.90c0a7d8.css",
-    "main.js": "/digital-business-card/static/js/main.591c704f.js",
-    "static/media/main-img.jpg": "/digital-business-card/static/media/main-img.b27971cf71e85cedafae.jpg",
-    "index.html": "/digital-business-card/index.html",
-    "main.90c0a7d8.css.map": "/digital-business-card/static/css/main.90c0a7d8.css.map",
-    "main.591c704f.js.map": "/digital-business-card/static/js/main.591c704f.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.90c0a7d8.css",
-    "static/js/main.591c704f.js"
-  ]
+  "main.css": "/digital-business-card/static/css/main.40530f82.chunk.css",
+  "main.js": "/digital-business-card/static/js/main.00438b0e.chunk.js",
+  "main.js.map": "/digital-business-card/static/js/main.00438b0e.chunk.js.map",
+  "static/js/1.30849235.chunk.js": "/digital-business-card/static/js/1.30849235.chunk.js",
+  "static/js/1.30849235.chunk.js.map": "/digital-business-card/static/js/1.30849235.chunk.js.map",
+  "runtime~main.js": "/digital-business-card/static/js/runtime~main.2ac6fa47.js",
+  "runtime~main.js.map": "/digital-business-card/static/js/runtime~main.2ac6fa47.js.map",
+  "static/media/main-img.jpg": "/digital-business-card/static/media/main-img.4ae89ad3.jpg",
+  "static/css/main.40530f82.chunk.css.map": "/digital-business-card/static/css/main.40530f82.chunk.css.map",
+  "index.html": "/digital-business-card/index.html",
+  "precache-manifest.eea20161e48926522db7a91687708729.js": "/digital-business-card/precache-manifest.eea20161e48926522db7a91687708729.js",
+  "service-worker.js": "/digital-business-card/service-worker.js"
 }
