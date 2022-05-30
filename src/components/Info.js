@@ -27,7 +27,7 @@ function Info() {
         src={imgLinkedIn}
         alt="LinkedIn logo"
         />
-          LinkedIn
+        <a href="https://www.linkedin.com/in/jan-francis-baldoza-898562179/">LinkedIn</a>
         </button>
     </div>
     </div>

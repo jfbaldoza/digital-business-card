@@ -161,6 +161,11 @@ background-color: #D1D5DB;
     margin-bottom: 1rem;
   }
 
+  a {
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
   @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
